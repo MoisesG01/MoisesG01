@@ -15,10 +15,10 @@ I'm Moises, a Software Development Student. Welcome to my GitHub profile!
 ## Contact
 
 <div>
-<a href="https://www.linkedin.com/in/moisesgonçalves" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://github.com/lbguilherme">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
 
 <div>
 <div>

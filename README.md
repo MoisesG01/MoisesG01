@@ -20,11 +20,8 @@ I'm Moises, a Software Development Student. Welcome to my GitHub profile!
 
 <div align="center">
   <h2> &#x1f4c8; GitHub Stats </h2>
-
-  <a href="https://github.com/MoisesG01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesG01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesG01&layout=compact&langs_count=7&theme=tokyonight"/>
-
+  <img width="325em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoisesG01&layout=compact&theme=dark&count_private=true&hide_border=true" alt="MoisesG01's stats"/>
+  <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoisesG01&theme=dark&show_icons=true&count_private=true&hide_border=true"  alt="MoisesG01's language stats"/>
 </div>
 
 

@@ -18,7 +18,7 @@ I'm Moises, a Software Development Student. Welcome to my GitHub profile!
 <a href="https://www.linkedin.com/in/moisesgonçalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div align="center">
+<div align="left">
   <h2> &#x1f4c8; GitHub Stats </h2>
   <img width="325em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoisesG01&layout=compact&theme=dark&count_private=true&hide_border=true" alt="MoisesG01's stats"/>
   <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoisesG01&theme=dark&show_icons=true&count_private=true&hide_border=true"  alt="MoisesG01's language stats"/>

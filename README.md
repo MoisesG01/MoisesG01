@@ -99,4 +99,3 @@ I'm always open to interesting conversations and collaboration opportunities!
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MoisesG01/MoisesG01/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-

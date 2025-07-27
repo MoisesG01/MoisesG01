@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi there, I'm Moises 👋</h1>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Development+Student;Full+Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast" alt="Typing SVG" />
 </div>

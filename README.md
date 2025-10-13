@@ -2,7 +2,6 @@
   <img src="https://github.com/MoisesG01/MoisesG01/blob/main/capa.png?raw=true" alt="Banner Moises Gonçalves" width="1000px" />
 </p>
 
-
 <h1 align="center">Hi there, I'm Moises 👋</h1>
 
 <div align="center">

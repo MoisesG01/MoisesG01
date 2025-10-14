@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Development+Student;Full+Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-
 <p align="center">
   🚀 Passionate about building innovative solutions & exploring emerging technologies.  
   <br/>Feel free to dive into my projects, collaborate, or connect!

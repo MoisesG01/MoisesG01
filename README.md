@@ -1,5 +1,5 @@
 <details open>
-<summary><b>✨ Welcome to the <span style="color:#36BCF7;">Moises Multiverse</span></b></summary>
+<summary><b>✨ Welcome </summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Digital%20Visionary-0A192F?style=for-the-badge&logo=apple&logoColor=white" />
@@ -20,7 +20,7 @@
   🚀 <b>Passionate about building impactful digital experiences</b>  
   <br>🌌 Exploring the intersection of <b>software, design, and innovation</b>.
   <br><br>
-  <i>“Code is my canvas — ideas are my colors.”</i>
+  <i>“Every line of code is a brushstroke in the art of creation.”</i>
 </p>
 </details>
 

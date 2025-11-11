@@ -147,3 +147,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoisesG01&label=Profile+views&color=0e75b6&style=flat" alt="MoisesG01" />
 </p>
+
+
+<p align="center">
+  <img width="60%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
+  <br/>
+  <sub>“Quando o código vira luz, a experiência vira constelação.”</sub>
+</p>

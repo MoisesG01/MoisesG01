@@ -1,9 +1,12 @@
+<details open>
+<summary><b>🚀 Welcome to the Moises Multiverse</b></summary>
 <p align="center">
-  <img src="https://github.com/MoisesG01/MoisesG01/blob/main/capa.png?raw=true" alt="Banner Moises Gonçalves" width="1000px" />
+<img src="https://img.shields.io/badge/Digital%20Visionary-000?style=for-the-badge&logo=applepay&logoColor=white" />
+<img src="https://img.shields.io/badge/Tech%20Artisan-111?style=for-the-badge&logo=openai&logoColor=87CEEB" />
+<img src="https://img.shields.io/badge/Future%20Builder-222?style=for-the-badge&logo=vercel&logoColor=8A2BE2" />
 </p>
 
-
-<h1 align="center">Hi there, I'm Moises 👋</h1>
+  <h1 align="center">Hi there, I'm Moises 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Development+Student;Full+Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast" alt="Typing SVG" />
@@ -13,6 +16,9 @@
   🚀 Passionate about building innovative solutions & exploring emerging technologies.  
   <br/>Feel free to dive into my projects, collaborate, or connect!
 </p>
+</details>
+
+
 
 ---
 
@@ -75,27 +81,28 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 Living Metrics
 <div align="center">
-  <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoisesG01&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="MoisesG01's GitHub Stats"/>
-  <img width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoisesG01&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="MoisesG01's Top Languages"/>
+<img width="410" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoisesG01&theme=radical&show_icons=true&count_private=true&hide_border=true" />
+<img width="330" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoisesG01&layout=compact&theme=radical&count_private=true&hide_border=true" />
+</div>
+<div align="center">
+<img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=MoisesG01&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesG01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🌌 Activity Universe
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesG01&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoisesG01&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MoisesG01&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true" />
 </div>
 
 ---

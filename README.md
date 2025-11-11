@@ -103,7 +103,7 @@
 
 ### 🌌 Activity Universe
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesG01&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesG01&theme=chartreuse-dark&radius=18&area=true&hide_border=true&bg_color=0a0511" width="96%" alt="Activity graph"/>
 </div>
 
 ---

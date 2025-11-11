@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="900" alt="Matrix rain banner"/>
+</p>
+
 <details open>
 <summary><b>✨ Welcome </summary>
 

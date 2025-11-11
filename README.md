@@ -1,23 +1,28 @@
 <details open>
-<summary><b>🚀 Welcome to the Moises Multiverse</b></summary>
+<summary><b>✨ Welcome to the <span style="color:#36BCF7;">Moises Multiverse</span></b></summary>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Digital%20Visionary-000?style=for-the-badge&logo=applepay&logoColor=white" />
-<img src="https://img.shields.io/badge/Tech%20Artisan-111?style=for-the-badge&logo=openai&logoColor=87CEEB" />
-<img src="https://img.shields.io/badge/Future%20Builder-222?style=for-the-badge&logo=vercel&logoColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/Digital%20Visionary-0A192F?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Artisan-112240?style=for-the-badge&logo=openai&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Future%20Builder-233554?style=for-the-badge&logo=vercel&logoColor=8A2BE2" />
 </p>
 
-  <h1 align="center">Hi there, I'm Moises 👋</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Development+Student;Full+Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Moises+👋;Full+Stack+Developer;Software+Development+Student;Always+Learning+and+Building" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  🚀 Passionate about building innovative solutions & exploring emerging technologies.  
-  <br/>Feel free to dive into my projects, collaborate, or connect!
+  <img src="https://img.shields.io/badge/Innovation%20%26%20Creativity-6B4DE6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Driven%20by%20Curiosity-00BFFF?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  🚀 <b>Passionate about building impactful digital experiences</b>  
+  <br>🌌 Exploring the intersection of <b>software, design, and innovation</b>.
+  <br><br>
+  <i>“Code is my canvas — ideas are my colors.”</i>
 </p>
 </details>
-
 
 
 ---

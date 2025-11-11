@@ -1,35 +1,43 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="900" alt="Matrix rain banner"/>
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colorful divider"/>
+  <img width="900" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix rain banner"/>
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow divider"/>
 </p>
 
 <details open>
-<summary><b>✨ Welcome </summary>
+  <summary><b>✨ Welcome</b></summary>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Digital%20Visionary-0A192F?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech%20Artisan-112240?style=for-the-badge&logo=openai&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Future%20Builder-233554?style=for-the-badge&logo=vercel&logoColor=8A2BE2" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Digital%20Visionary-000428?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Tech%20Artisan-004e92?style=for-the-badge&logo=openai&logoColor=00FFFF" />
+    <img src="https://img.shields.io/badge/Future%20Builder-4286f4?style=for-the-badge&logo=vercel&logoColor=8A2BE2" />
+  </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Moises+👋;Full+Stack+Developer;Software+Development+Student;Always+Learning+and+Building" alt="Typing Animation" />
-</h1>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2400&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Moises+👋;Full+Stack+Developer;Software+Development+Student;Always+Learning+and+Building" alt="Typing Animation" />
+  </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Innovation%20%26%20Creativity-6B4DE6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Driven%20by%20Curiosity-00BFFF?style=for-the-badge&logoColor=white" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Innovation%20%26%20Creativity-6B4DE6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Driven%20by%20Curiosity-00BFFF?style=for-the-badge&logoColor=white" />
+  </p>
 
-<p align="center">
-  🚀 <b>Passionate about building impactful digital experiences</b>  
-  <br>🌌 Exploring the intersection of <b>software, design, and innovation</b>.
-  <br><br>
-  <i>“Every line of code is a brushstroke in the art of creation.”</i>
-</p>
+  <p align="center">
+    🚀 <b>Passionate about building impactful digital experiences</b><br/>
+    🌌 Exploring the intersection of <b>software, design, and innovation</b>.<br/><br/>
+    <i>“Every line of code is a brushstroke in the art of creation.”</i>
+  </p>
+
+  <div align="center">
+    <img width="80%" src="https://raw.githubusercontent.com/MoisesG01/MoisesG01/main/assets/aurora-divider.gif" alt="aurora divider"/>
+  </div>
 </details>
 
-
 ---
+
+<div align="center">
+  <img width="75%" src="https://raw.githubusercontent.com/MoisesG01/MoisesG01/main/assets/holo-grid.gif" alt="holo grid"/>
+</div>
 
 ## 🧠 About Me
 

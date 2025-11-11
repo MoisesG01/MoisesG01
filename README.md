@@ -35,10 +35,6 @@
 
 ---
 
-<div align="center">
-  <img width="75%" src="https://raw.githubusercontent.com/MoisesG01/MoisesG01/main/assets/holo-grid.gif" alt="holo grid"/>
-</div>
-
 ## 🧠 About Me
 
 - 🎓 **Software Development Student**  
